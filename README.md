@@ -11,4 +11,6 @@ there were two other candidate models that are as following :
 
 both of these models will also be placed in this repository and can be found in the candidate_models directory.
 
-using the HAZM python library for persian NLP i normalized the spacings and tokenized using this library by passing these objects to the SKlearn TF-IDF library and rewriting the defaults.
+using the HAZM python library for persian NLP i normalized the spacings and tokenized using this library by passing these objects to the SKlearn TF-IDF library and rewriting the defaults values.
+
+
