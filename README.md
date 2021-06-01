@@ -1,4 +1,4 @@
-# Computational_intelligence_final_project_NLP
+# Computational intelligence final project NLP
 the final project for computational intelligence course.the goal of this project was to train a model to do classification on text from diffrent persian newspaper articles.
 this model was trained on around 150,000 samples and reached a test accuracy of around (85-84) percent on a completely seperate test set that was around 16.7 thousand articles.
 due to the sheer size and the ownership rights of this data i sadly cannot add it to this project but i have prepared a sample of data that should help you understand the data better.
